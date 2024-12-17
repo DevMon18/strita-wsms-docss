@@ -4,6 +4,7 @@
 
 # St. Rita Mission Station - Wedding Schedule Management System (WSMS)
 
+![Pasted image 20241217221356.png](/img/user/Pasted%20image%2020241217221356.png)
 ## I. User Interface Enhancements
 
 ### 1. Main Navigation Bar:
@@ -11,7 +12,7 @@
 - **Services**: Include a list of services like baptisms, community events, etc.
 - **Visual Design**: Use wedding-themed colors and fonts, with elegant icons and clear navigation.
 
-### 2. Hero Section (Image Slider - Carousel):
+### 2. Hero Section:
 - Add a carousel of beautiful wedding photos.
 - **Call-to-Action Button**: "Book Your Wedding Now" — This button will scroll smoothly to the login/register section or the booking form if the user is logged in.
 
